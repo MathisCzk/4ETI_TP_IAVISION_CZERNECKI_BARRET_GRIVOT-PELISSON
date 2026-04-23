@@ -35,6 +35,7 @@ Les actvités
 Les TP A et B peuvent être fait en parrallele, le TP C necessite que le B soit compris
 
 TP A [TP Intro detection ](TP_vision_detection.md)
+La partie la plus interessante (fine tuning d'un YOLO)  et la partie 3 , elle ne nécessite pas de faire les partie 1 et 2 .
 
 TP B [TP classification et CNN ](TP_classifcation.md)
 
