@@ -37,7 +37,7 @@ TP 1 [TP Intro detection ](TP_vision_detection.md)
 
 TP 2 [TP classification et CNN ](TP_classifcation.md)
 
-TP 3 (bonus) [TP Vision Transformer ]()
+TP 3 (bonus) [TP Vision Transformer ](https://github.com/fabricejumel/VIT_2025)
 
 
 
