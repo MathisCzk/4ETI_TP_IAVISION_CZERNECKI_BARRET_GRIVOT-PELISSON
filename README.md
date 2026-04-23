@@ -10,7 +10,7 @@
 > Le rendu se fera  en monome,binome,trinome  sous forme d'un git sous github ou vous donnerez le droit maintener à fabricejumel
 > 
 > [!CAUTION]
-> Le rendu doit être finalisé pour lelundi 4  décembre 2025 23H00 et sera tagué "V1" 
+> Le rendu doit être finalisé pour le lundi 4  mai 2026,  23H00 et sera tagué "V1" 
 
 
 Il est recommandé de travailler dans un environnement virtuel
